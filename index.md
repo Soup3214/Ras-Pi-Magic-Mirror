@@ -1,14 +1,13 @@
-# Arduino Binary Clock
-Nowdays, reading the time is boring. All one needs to do is to take a glance at their phone or their computer, or even a glance at their desk and all the information they need, will be right there for them. This clock challenges people and changes this by using binary codes to show the time.  
-
+# Raspberry PI Magic Mirror
+Nowdays, many people will wake up and look at their phone to catch up on everything that they need. Such as the time, weather, news, and many more. They also will go and possibly look at their mirror. This project combines both of these into one, allowing for easy accsess to all the info one needs in the morning. 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Aaron Fang | Paly | Undecided | Upcoming Sophomore 
 
-![Headstone Image](https://cdn.discordapp.com/attachments/799773888032014406/857099616511328276/IMG_0419.jpg)(second to last green is really dim)
+![Headstone Image](https://cdn.discordapp.com/attachments/799773888032014406/857099616511328276/IMG_0419.jpg)
   
-# First Milestone: Learning to read time with Arduino 
-My first milestone I made for myself in the process of making the clock was to learn how to track time passing using an Arduino, I had to do this because reading the time is the most important feature of a clock. In order to do this, I started off with the millis(); function to keep track of the time since the Arduino started. Then with this, I could add certain timed events to happen. In this case, I wrote "time to dance".
+# First Milestone: Setting up the Raspberry PI, a VNC server, as well as adding the Magic Mirror software
+Since this was the first time I have ever used a Raspberry PI, I decided that learning how to turn it on was a good starting point. If you know raspberry pi, then starting up for the first time is a simple process, just downloading the raspberry pi imager, stick in a SD card, and write it up. Since I had a moniter, it was a simple task of plugging in the newly written SD card, adding the power supply, a HDMI cable, a mouse and keyboard, and with that the Raspberry pi is set up
 
 [![First Milestone](https://cdn.discordapp.com/attachments/799773888032014406/858075178101768232/Screen_Shot_2021-06-25_at_1.01.29_PM.png)](https://youtu.be/JirGGPNNe5g&feature=emb_logo "First Milestone"){:target="_blank" rel="noopener"}
 
