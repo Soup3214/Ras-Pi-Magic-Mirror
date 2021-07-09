@@ -7,7 +7,7 @@ Nowdays, many people will wake up and look at their phone to catch up on everyth
 ![Headstone Image](https://cdn.discordapp.com/attachments/799773888032014406/857099616511328276/IMG_0419.jpg)
   
 # First Milestone: Setting up the Raspberry PI, a VNC server, as well as adding the Magic Mirror software
-Since this was the first time I have ever used a Raspberry PI, I decided that learning how to turn it on was a good starting point. If you know raspberry pi, then starting up for the first time is a simple process, just downloading the raspberry pi imager, stick in a SD card, and write it up. Since I had a moniter, it was a simple task of plugging in the newly written SD card, adding the power supply, a HDMI cable, a mouse and keyboard, and with that the Raspberry pi is set up
+Since this was the first time I have ever used a Raspberry PI, I decided that learning how to turn it on was a good starting point. If you know raspberry pi, then starting up for the first time is a simple process, just downloading the raspberry pi imager, stick in a SD card, and write it up. Since I had a moniter, it was a simple task of plugging in the newly written SD card, adding the power supply, a HDMI cable, a mouse and keyboard, and with that the Raspberry pi is set up. setting up a VNC server was a bit harder. A VNC server is a program that allows me to remotely accsess my raspberry pi, a bit like a vertual desktop. 
 
 [![First Milestone](https://cdn.discordapp.com/attachments/799773888032014406/858075178101768232/Screen_Shot_2021-06-25_at_1.01.29_PM.png)](https://youtu.be/JirGGPNNe5g&feature=emb_logo "First Milestone"){:target="_blank" rel="noopener"}
 
