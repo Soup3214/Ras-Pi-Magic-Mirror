@@ -1,5 +1,6 @@
 # Raspberry PI Magic Mirror
 Nowdays, many people will wake up and look at their phone to catch up on everything that they need. Such as the time, weather, news, and many more. They also will go and possibly look at their mirror. This project combines both of these into one, allowing for easy accsess to all the info one needs in the morning. 
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Aaron Fang | Paly | Undecided | Upcoming Sophomore 
