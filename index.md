@@ -13,7 +13,7 @@ Since this was the first time I have ever used a Raspberry PI, I decided that le
 [![First Milestone](jpg pic)](yt link"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-new things
+As my project was to make a magic mirror using raspberry pi, it is fitting that I make my second milestone setting up the magic mirror and all the modules that I want to add. I decided on using an insult module from https://github.com/mykle1/MMM-Insults instead of a complements module that is from the defualt modules. I also replaced the news module for the insult one, as the news module took up the space I wanted to use for the insult module 
 
 [![Third Milestone](jpg pic)](yt link){:target="_blank" rel="noopener"}
 # Last Milestone
