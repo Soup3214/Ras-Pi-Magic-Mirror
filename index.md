@@ -3,7 +3,7 @@ Nowadays, many people will wake up and look at their phone to catch up on everyt
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Aaron Fang | Paly | Undecided | Upcoming Sophomore 
+| Aaron | Paly | Undecided | Upcoming Sophomore 
 
 ![Headstone Image](https://cdn.discordapp.com/attachments/799773888032014406/857099616511328276/IMG_0419.jpg)
   
