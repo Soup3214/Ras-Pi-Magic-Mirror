@@ -5,7 +5,7 @@ Nowadays, many people will wake up and look at their phone to catch up on everyt
 |:--:|:--:|:--:|:--:|
 | Aaron | Paly | Undecided | Upcoming Sophomore 
 
-![Headstone Image](https://cdn.discordapp.com/attachments/799773888032014406/857099616511328276/IMG_0419.jpg)
+![Headstone Image](https://github.com/Soup3214/Ras-Pi-Magic-Mirror/blob/gh-pages/images/Screen_Shot_2021-07-19_at_1.53.58_PM.png)
   
 # First Milestone: Setting up the Raspberry PI, a VNC server, as well as adding the Magic Mirror software
 Since this was the first time, I have ever used a Raspberry Pi, I decided that learning how to turn it on was a good starting point. If you know Raspberry Pi, then starting up for the first time is a simple process: just downloading the raspberry pi imager, stick in a SD card, and write it up. Since I had a monitor, it was a simple task of plugging in the newly written SD card, adding the power supply, a HDMI cable, a mouse and keyboard, and with that the Raspberry pi is set up. Setting up the VNC server was a bit harder. A VNC server is a program that allows me to remotely access my Raspberry Pi, creating a virtual desktop.
