@@ -15,7 +15,7 @@ Since this was the first time, I have ever used a Raspberry Pi, I decided that l
 # Second Milestone
 As my project was to make a smart mirror using a Raspberry Pi, it is fitting that I make my second milestone setting up the magic mirror software and all the modules that I want to add. I decided on using an insult module from https://github.com/mykle1/MMM-Insults instead of a compliments module that is from the default modules. I also replaced the news module for the insult one, as the news module took up the space I wanted to use for the insult module.
 
-[![Third Milestone](https://cdn.discordapp.com/attachments/753451633308074024/865694717227958293/IMG_0445.jpg)](yt link){:target="_blank" rel="noopener"}
+[![Third Milestone](https://cdn.discordapp.com/attachments/799773888032014406/867878161811505172/Screen_Shot_2021-07-22_at_2.16.29_PM.png)](yt link){:target="_blank" rel="noopener"}
 # Last Milestone
 new thigs
 
