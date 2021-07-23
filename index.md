@@ -17,9 +17,4 @@ As my project was to make a smart mirror using a Raspberry Pi, it is fitting tha
 
 [![Third Milestone](https://cdn.discordapp.com/attachments/799773888032014406/867878161811505172/Screen_Shot_2021-07-22_at_2.16.29_PM.png)](yt link){:target="_blank" rel="noopener"}
 # Last Milestone
-new thigs
-
-
-
-[![Final Milestone](jpg pic)](yt link"){:target="_blank" rel="noopener"}
-new things
+my final milestone was to complete the MagicMirror, adding a frame and completeing everything else. I did this by cutting out a cardboard rectangle, and cutting a small square inside of the rectangle, then glueing the mirror on top of the cardboard. Since this is a Magic Mirror, I needed to add the moniter behind the mirror so I can see through the mirror. This I did with hot glue on all the sides of the monitor. 
